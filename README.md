@@ -28,7 +28,7 @@ Devido a limitação do tempo, a aplicação só pôde ser testada no SO Windows
 
 ### Instação
 
-Esta aplicação foi desenvolvida com [Node.js](https://nodejs.org/) v7.7.3.
+Esta aplicação foi desenvolvida com [Node.js](https://nodejs.org/) v7.7.3 e [Loopback.io](loopback.io) V3
 Database - não a necessidade de configuração, os dados estão sendo armazenas em memória (in memory).
 
 Instale as dependências e inicie o servidor
