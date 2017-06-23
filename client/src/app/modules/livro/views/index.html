@@ -57,7 +57,8 @@
               </table>
               <button class="btn btn-info" ng-click="show(livro.id)">Ver</button>
               <button class="btn btn-success" ng-click="update(livro.id)">Editar</button>
-              <button class="btn btn-danger" ng-click="delete(livro.id)">Excluir</button>
+              <button class="btn btn-danger" confirmed-click="delete(livro.id)"
+                      ng-confirm-click="Deseja excluir este Livro?">Excluir</button>
             </div>
           </div>
         </div>
