@@ -7,7 +7,7 @@ Está aplicação foi desenvolvida com a finalidade de participar de determinado
 # Nota!
 
 > Pelo prazo que foi estipulado, e por algumas intercorrências
-> não pude desenvolver tudo o que planejava. Pontos como  refatoração de código e   documentação da API não pode ser disponibilizada em um link separado.
+> não pude desenvolver tudo o que planejava. Pontos como  refatoração de código e   documentação da API não pôde ser disponibilizada em um link separado.
 > Em relação a documentação da API, como o front-end e o back-end foi desenvolvido 
 > com o framework LB, não será de grande relevância, já que o próprio framework cria a documentação da API.
 
@@ -24,7 +24,7 @@ Está aplicação foi desenvolvida com a finalidade de participar de determinado
 
 ### Testado
 
-Devido a limitação do tempo, a aplicação só pode ser testada no SO Windows 10, onde não ouve nenhum resultado inesperado.
+Devido a limitação do tempo, a aplicação só pôde ser testada no SO Windows 10, onde não ouve nenhum resultado inesperado.
 
 ### Instação
 
