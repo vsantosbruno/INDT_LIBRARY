@@ -14,22 +14,20 @@ Está aplicação foi desenvolvida com a finalidade de participar de determinado
 
 ### Tecnologias Usadas
 
-* [Node.js](https://nodejs.org/en/) - Criação o server-side e extrutura das API's
-* [Loopback.io](loopback.io)  Gerenciamento das API's
-* [Angularjs](https://angularjs.org) - Interação com a DOM
-* [Twitter Bootstrap](getbootstrap.com) - Criação do Layout e Responsividade
+* [Node.js](https://nodejs.org/en/) V7.7.3 - Criação o server-side e extrutura das API's
+* [Loopback.io](loopback.io) V3  Gerenciamento das API's
+* [Angularjs](https://angularjs.org)  - Interação com a DOM
+* [Twitter Bootstrap](getbootstrap.com) v3 - Criação do Layout e Responsividade
 * [NPM](NPMJS.com) - Para o Gerenciamento das Dependências
 * [Angular-ui](angular-ui.github.io) - Componentes do Bootstrap no Angularjs
-* [jQuery](https://jquery.com/) - Animações Gráficas
+* [jQuery](https://jquery.com/) v3 - Animações Gráficas
 
 ### Testado
 
 Devido a limitação do tempo, a aplicação só pôde ser testada no SO Windows 10, onde não ouve nenhum resultado inesperado.
 
-### Instação
-
-Esta aplicação foi desenvolvida com [Node.js](https://nodejs.org/) v7.7.3 e [Loopback.io](loopback.io) V3
-Database - não a necessidade de configuração, os dados estão sendo armazenas em memória (in memory).
+### Instalação
+OBS: Não haverá necessidade de configurar o datasource, pois os dados estão sendo armazenas em memória (in memory).
 
 Instale as dependências e inicie o servidor
 
@@ -47,7 +45,7 @@ $ node .
 
 ##
 
->Para quaisquer dúvidas estareia disposição.
+>Para quaisquer dúvidas estarei a disposição.
  
  
  
