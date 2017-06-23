@@ -1,0 +1,34 @@
+{
+  "name": "Livro",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "titulo": {
+      "type": "string",
+      "required": true
+    },
+    "autor": {
+      "type": "string",
+      "required": true
+    },
+    "editora": {
+      "type": "string",
+      "required": true
+    },
+    "ano": {
+      "type": "number",
+      "required": true
+    },
+    "localizacao": {
+      "type": "string",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

@@ -1,0 +1,25 @@
+product: '1.0.0'
+
+info:
+  name: indt_library
+  title: INDT_LIBRARY
+  version: '1.0.0'
+
+apis:
+  'indt_library':
+    $ref: INDT_LIBRARY.yaml
+
+visibility:
+  view:
+    type: public
+  subscribe:
+    type: authenticated
+
+plans:
+  default:
+    title: Default Plan
+    description: Default Plan
+    approval: false
+    rate-limit:
+      value: 100/hour
+      hard-limit: false
